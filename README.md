@@ -1,5 +1,7 @@
 # ToDo CLI App
 
+![image](https://github.com/vinay-chin/todocli/assets/109643166/5e6bc1dd-9398-47a9-914e-12ab5a33ac16)
+
 This is a simple command-line interface (CLI) ToDo app built with Gorm ORM for MySQL and Cobra framework. It allows you to manage your tasks efficiently through the command line.
 
 ## Features
